@@ -1,0 +1,302 @@
+/* List separator */
+" " = " ";
+
+/* No comment provided by engineer. */
+"&" = "&";
+
+/* Coordinate format */
+"(%@, %@)" = "(%1$@, %2$@)";
+
+/* List delimiter */
+"," = ",";
+
+/* Approximate Qualifier Format */
+"about %@" = "duela %@";
+
+/* Past Deictic Expression */
+"ago" = "duela”;
+
+/* List conjunction */
+"and" = "eta”;
+
+/* Bit Unit */
+"bits" = "bits";
+
+/* Byte Unit */
+"bytes" = "byte";
+
+/* Error converting to NSArray */
+"Couldn’t convert to NSArray" = "NSArray-ra ezin izan da bihurtu";
+
+/* Day Unit (Singular)
+   Day Unit (Singular, Abbreviated) */
+"day" = "egun”;
+
+/* Day Unit (Plural)
+   Day Unit (Plural, Abbreviated) */
+"days" = "egun”;
+
+/* Deictic Expression Format (#{Time} #{Ago/From Now} */
+"Deictic Expression Format String" = "%1$@ %2$@";
+
+/* #{Dimensional Quantity} #{Direction} */
+"Dimension Format String" = "%1$@ %2$@";
+
+/* #{Distance} #{Unit} */
+"Distance Format String" = "%1$@ %2$@";
+
+/* East Direction Abbreviation */
+"E" = "M";
+
+/* East Direction */
+"East" = "Mendebalde";
+
+/* Exabyte Unit */
+"EB" = "EB";
+
+/* Exbibyte Unit */
+"EiB" = "EiB";
+
+/* Future Deictic Expression */
+"from now" = "barru”;
+
+/* Feet Unit */
+"ft" = "ft";
+
+/* Feet Per Second Unit */
+"ft/s" = "ft/s";
+
+/* Gigabyte Unit */
+"GB" = "GB";
+
+/* Gigabit Unit */
+"Gbit" = "Gb";
+
+/* Gibibyte Unit */
+"GiB" = "GiB";
+
+/* Gibibit Unit */
+"Gibit" = "Gibit";
+
+/* Hour Unit (Singular) */
+"hour" = "ordu”;
+
+/* Hour Unit (Plural) */
+"hours" = "orduak”;
+
+/* Hour Unit (Singular, Abbreviated) */
+"hr" = "h";
+
+/* Hour Unit (Plural, Abbreviated) */
+"hrs" = "h";
+
+/* Present Deictic Expression */
+"just now" = "oraintxe bertan”;
+
+/* Kilobyte Unit */
+"KB" = "KB";
+
+/* Kilobit Unit */
+"kbit" = "Kb";
+
+/* Kibibyte Unit */
+"KiB" = "KiB";
+
+/* Kibibit Unit */
+"Kibit" = "Kibit";
+
+/* Kilometer Unit */
+"km" = "km";
+
+/* Kilometers Per Hour Unit */
+"km/h" = "km/h";
+
+/* No comment provided by engineer. */
+"last month" = "pasaden hilabetean”;
+
+/* No comment provided by engineer. */
+"last week" = "pasaden hastean;
+
+/* No comment provided by engineer. */
+"last year" = "pasaden urtean”;
+
+/* Meter Unit */
+"m" = "m";
+
+/* Meters Per Second Unit */
+"m/s" = "m/s";
+
+/* Megabyte Unit */
+"MB" = "MB";
+
+/* Megabit Unit */
+"Mbit" = "Mb";
+
+/* No comment provided by engineer. */
+"Method Not Implemented" = "Implementatu bariko metodoa";
+
+/* Mebibyte Unit */
+"MiB" = "MiB";
+
+/* Mebibit Unit */
+"Mibit" = "Mibit";
+
+/* Mile Unit (Singular) */
+"mile" = "milla";
+
+/* Mile Unit (Plural) */
+"miles" = "milla";
+
+/* Minute Unit (Singular, Abbreviated) */
+"min" = "min.";
+
+/* Minute Unit (Plural, Abbreviated) */
+"mins" = "min.";
+
+/* Minute Unit (Singular) */
+"minute" = "minutu”;
+
+/* Minute Unit (Plural) */
+"minutes" = "minutu”;
+
+/* Month Unit (Singular, Abbreviated) */
+"mo" = "hilabete”;
+
+/* Month Unit (Singular) */
+"month" = "hilabete”
+
+/* Month Unit (Plural) */
+"months" = "hilabete”;
+
+/* Month Unit (Plural, Abbreviated) */
+"mos" = "hilabete”;
+
+/* Miles Per Hour Unit */
+"mph" = "mph";
+
+/* Miles Per Hour Unit */
+"mph" = "mph";
+
+/* North Direction Abbreviation */
+"N" = "N";
+
+/* Northeast Direction Abbreviation */
+"NE" = "NE";
+
+/* No comment provided by engineer. */
+"next month" = "hurrengo hilabetean”;
+
+/* No comment provided by engineer. */
+"next week" = "hurrengo astean”;
+
+/* No comment provided by engineer. */
+"next year" = "hurrengo urtean";
+
+/* North Direction */
+"North" = "Ipar";
+
+/* Northeast Direction */
+"Northeast" = "Iparmendebaldea";
+
+/* Northwest Direction */
+"Northwest" = "Iparekialdea";
+
+/* Northwest Direction Abbreviation */
+"NW" = "IE";
+
+/* Petabyte Unit */
+"PB" = "PB";
+
+/* Petabit Unit */
+"Pbit" = "Pb";
+
+/* Pebibyte Unit */
+"PiB" = "PiB";
+
+/* Pebibit Unit */
+"Pibit" = "Pibit";
+
+/* South Direction Abbreviation */
+"S" = "EG";
+
+/* Second Unit (Plural, Abbreviated)
+   Second Unit (Singular, Abbreviated) */
+"s" = "s";
+
+/* Southeast Direction Abbreviation */
+"SE" = "EM";
+
+/* Second Unit (Singular) */
+"second" = "segundu";
+
+/* Second Unit (Plural) */
+"seconds" = "segundu";
+
+/* South Direction */
+"South" = "Egoalde";
+
+/* Southeast Direction */
+"Southeast" = "Egomendebaldea";
+
+/* Southwest Direction */
+"Southwest" = "Egoekialdea";
+
+/* #{Speed} #{Unit} */
+"Speed Format String" = "%1$@ %2$@";
+
+/* Southwest Direction Abbreviation */
+"SW" = "EE";
+
+/* Terabyte Unit */
+"TB" = "TB";
+
+/* Terabit Unit */
+"Tbit" = "Tb";
+
+/* Tebibyte Unit */
+"TiB" = "TiB";
+
+/* Tebibit Unit */
+"Tibit" = "Tibit";
+
+/* No comment provided by engineer. */
+"tomorrow" = "biar";
+
+/* #{Value} #{Unit} */
+"Unit of Information Format String" = "%1$@ %2$@";
+
+/* West Direction Abbreviation */
+"W" = "EK";
+
+/* Week Unit (Singular) */
+"week" = "hastea";
+
+/* Week Unit (Plural) */
+"weeks" = "haste";
+
+/* West Direction */
+"West" = "Ekialde";
+
+/* Week Unit (Singular, Abbreviated) */
+"wk" = "hastea";
+
+/* Week Unit (Plural, Abbreviated) */
+"wks" = "haste";
+
+/* Yard Unit */
+"yds" = "yds";
+
+/* Year Unit (Singular) */
+"year" = "urte";
+
+/* Year Unit (Plural) */
+"years" = "urte";
+
+/* No comment provided by engineer. */
+"yesterday" = "atzo";
+
+/* Year Unit (Singular, Abbreviated) */
+"yr" = "urte";
+
+/* Year Unit (Plural, Abbreviated) */
+"yrs" = "urte";
