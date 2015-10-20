@@ -14,30 +14,30 @@
 "about %@" = "duela %@";
 
 /* Past Deictic Expression */
-"ago" = "duela”;
+"ago" = "duela";
 
 /* List conjunction */
-"and" = "eta”;
+"and" = "eta";
 
 /* Bit Unit */
 "bits" = "bits";
 
 /* Byte Unit */
-"bytes" = "byte";
+"bytes" = "bytes";
 
 /* Error converting to NSArray */
 "Couldn’t convert to NSArray" = "NSArray-ra ezin izan da bihurtu";
 
 /* Day Unit (Singular)
-   Day Unit (Singular, Abbreviated) */
-"day" = "egun”;
+ Day Unit (Singular, Abbreviated) */
+"day" = "egun";
 
 /* Day Unit (Plural)
-   Day Unit (Plural, Abbreviated) */
-"days" = "egun”;
+ Day Unit (Plural, Abbreviated) */
+"days" = "egun";
 
 /* Deictic Expression Format (#{Time} #{Ago/From Now} */
-"Deictic Expression Format String" = "%1$@ %2$@";
+"Deictic Expression Format String" = "%2$@ %1$@";
 
 /* #{Dimensional Quantity} #{Direction} */
 "Dimension Format String" = "%1$@ %2$@";
@@ -58,7 +58,7 @@
 "EiB" = "EiB";
 
 /* Future Deictic Expression */
-"from now" = "barru”;
+"from now" = "barru";
 
 /* Feet Unit */
 "ft" = "ft";
@@ -79,10 +79,10 @@
 "Gibit" = "Gibit";
 
 /* Hour Unit (Singular) */
-"hour" = "ordu”;
+"hour" = "ordu";
 
 /* Hour Unit (Plural) */
-"hours" = "orduak”;
+"hours" = "orduak";
 
 /* Hour Unit (Singular, Abbreviated) */
 "hr" = "h";
@@ -91,7 +91,7 @@
 "hrs" = "h";
 
 /* Present Deictic Expression */
-"just now" = "oraintxe bertan”;
+"just now" = "oraintxe bertan";
 
 /* Kilobyte Unit */
 "KB" = "KB";
@@ -112,13 +112,13 @@
 "km/h" = "km/h";
 
 /* No comment provided by engineer. */
-"last month" = "pasaden hilabetean”;
+"last month" = "pasaden hilabetean";
 
 /* No comment provided by engineer. */
-"last week" = "pasaden hastean;
+"last week" = "pasaden hastean";
 
 /* No comment provided by engineer. */
-"last year" = "pasaden urtean”;
+"last year" = "pasaden urtean";
 
 /* Meter Unit */
 "m" = "m";
@@ -154,22 +154,22 @@
 "mins" = "min.";
 
 /* Minute Unit (Singular) */
-"minute" = "minutu”;
+"minute" = "minutu";
 
 /* Minute Unit (Plural) */
-"minutes" = "minutu”;
+"minutes" = "minutu";
 
 /* Month Unit (Singular, Abbreviated) */
-"mo" = "hilabete”;
+"mo" = "hilabete";
 
 /* Month Unit (Singular) */
-"month" = "hilabete”
+"month" = "hilabete";
 
 /* Month Unit (Plural) */
-"months" = "hilabete”;
+"months" = "hilabete";
 
 /* Month Unit (Plural, Abbreviated) */
-"mos" = "hilabete”;
+"mos" = "hilabete";
 
 /* Miles Per Hour Unit */
 "mph" = "mph";
@@ -178,22 +178,22 @@
 "mph" = "mph";
 
 /* North Direction Abbreviation */
-"N" = "N";
+"N" = "I";
 
 /* Northeast Direction Abbreviation */
-"NE" = "NE";
+"NE" = "IM";
 
 /* No comment provided by engineer. */
-"next month" = "hurrengo hilabetean”;
+"next month" = "hurrengo hilabetean";
 
 /* No comment provided by engineer. */
-"next week" = "hurrengo astean”;
+"next week" = "hurrengo astean";
 
 /* No comment provided by engineer. */
 "next year" = "hurrengo urtean";
 
 /* North Direction */
-"North" = "Ipar";
+"North" = "Iparalde";
 
 /* Northeast Direction */
 "Northeast" = "Iparmendebaldea";
@@ -220,7 +220,7 @@
 "S" = "EG";
 
 /* Second Unit (Plural, Abbreviated)
-   Second Unit (Singular, Abbreviated) */
+ Second Unit (Singular, Abbreviated) */
 "s" = "s";
 
 /* Southeast Direction Abbreviation */
